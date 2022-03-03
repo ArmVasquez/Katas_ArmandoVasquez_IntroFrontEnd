@@ -1,5 +1,5 @@
 # Katas_ArmandoVasquez_IntroFrontEnd
-Katas correspondientes a la Introducción a la programación FrontEnd Launch X
+En el siguiente repositorio se encuentran las practicas correspondientes a la primera semana del FrontEnd del programa LaunchX
 
 **Practicas dentro de este repositorio**
   * Toma de requerimientos
